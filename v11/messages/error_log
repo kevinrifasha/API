@@ -1,0 +1,2 @@
+[31-May-2021 15:45:03 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/urhubcom/public_html/v5/messages/GetAll.php on line 34
+[31-May-2021 15:46:06 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/urhubcom/public_html/v5/messages/GetAll.php on line 34

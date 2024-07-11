@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+[31-May-2021 10:54:08 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/urhubcom/public_html/v5/favorites/GetAll.php on line 33
+[31-May-2021 10:54:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/urhubcom/public_html/v5/favorites/GetAll.php on line 33
+[31-May-2021 10:54:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/urhubcom/public_html/v5/favorites/GetAll.php on line 33
+[31-May-2021 10:54:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/urhubcom/public_html/v5/favorites/GetAll.php on line 33
+=======
+[31-May-2021 10:54:08 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/urhubcom/public_html/v5/favorites/GetAll.php on line 33
+[31-May-2021 10:54:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/urhubcom/public_html/v5/favorites/GetAll.php on line 33
+[31-May-2021 10:54:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/urhubcom/public_html/v5/favorites/GetAll.php on line 33
+[31-May-2021 10:54:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/urhubcom/public_html/v5/favorites/GetAll.php on line 33
+[31-May-2021 16:46:35 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/urhubcom/public_html/v5/favorites/Delete.php on line 38
+[31-May-2021 16:48:45 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$menuID in /home/urhubcom/public_html/v5/favorites/Delete.php on line 38
+[02-Jun-2021 14:02:10 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$menuID in /home/urhubcom/public_html/v5/favorites/Delete.php on line 38
+[02-Jun-2021 14:02:15 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$menuID in /home/urhubcom/public_html/v5/favorites/Delete.php on line 38
+<<<<<<< HEAD
+>>>>>>> 13812722a4dca706f7eef750db60ab92d2419484
+=======
+>>>>>>> a6d9e5e10a1248016cbaade01ce5933a63933dbf
+>>>>>>> e49b80d9993c9e108daecf4c5c86327cbe8e78f1

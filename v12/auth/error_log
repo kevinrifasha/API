@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+[31-May-2021 09:03:14 Asia/Jakarta] PHP Notice:  Undefined variable: encryptT in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 68
+[31-May-2021 09:03:14 Asia/Jakarta] PHP Notice:  Undefined variable: today in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 55
+[31-May-2021 12:09:12 Asia/Jakarta] PHP Notice:  Undefined variable: encryptT in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 68
+[31-May-2021 12:09:12 Asia/Jakarta] PHP Notice:  Undefined variable: today in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 55
+=======
+=======
+>>>>>>> e49b80d9993c9e108daecf4c5c86327cbe8e78f1
+[31-May-2021 09:03:14 Asia/Jakarta] PHP Notice:  Undefined variable: encryptT in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 68
+[31-May-2021 09:03:14 Asia/Jakarta] PHP Notice:  Undefined variable: today in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 55
+[31-May-2021 12:09:12 Asia/Jakarta] PHP Notice:  Undefined variable: encryptT in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 68
+[31-May-2021 12:09:12 Asia/Jakarta] PHP Notice:  Undefined variable: today in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 55
+[31-May-2021 17:17:29 Asia/Jakarta] PHP Notice:  Undefined variable: encryptT in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 68
+[31-May-2021 17:17:29 Asia/Jakarta] PHP Notice:  Undefined variable: today in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 55
+[02-Jun-2021 14:38:31 Asia/Jakarta] PHP Notice:  Undefined variable: encryptT in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 68
+[02-Jun-2021 14:38:31 Asia/Jakarta] PHP Notice:  Undefined variable: today in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 55
+[02-Jun-2021 14:45:52 Asia/Jakarta] PHP Notice:  Undefined variable: encryptT in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 68
+[02-Jun-2021 14:45:52 Asia/Jakarta] PHP Notice:  Undefined variable: today in /home/urhubcom/public_html/v3/auth/employeeLogin.php on line 55
+<<<<<<< HEAD
+>>>>>>> 13812722a4dca706f7eef750db60ab92d2419484
+=======
+>>>>>>> e49b80d9993c9e108daecf4c5c86327cbe8e78f1

@@ -1,0 +1,83 @@
+[02-Jun-2021 15:47:07 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:47:07 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:47:07 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:47:25 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:47:25 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:47:25 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:48:35 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:48:36 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:48:36 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:48:38 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:49:18 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:49:18 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:49:27 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:49:27 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:49:27 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:50:39 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:50:39 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:50:40 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:52:09 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:52:10 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:52:10 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id_partner in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 36
+[02-Jun-2021 15:52:10 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:53:22 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 50
+[02-Jun-2021 15:53:22 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 50
+[02-Jun-2021 15:53:42 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 50
+[02-Jun-2021 15:53:42 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 50
+[02-Jun-2021 15:54:19 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 50
+[02-Jun-2021 15:54:20 Asia/Jakarta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 24
+[02-Jun-2021 15:54:45 Asia/Jakarta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 24
+[02-Jun-2021 15:56:04 Asia/Jakarta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 24
+[02-Jun-2021 15:58:42 Asia/Jakarta] PHP Notice:  Undefined index: partnerID in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 27
+[02-Jun-2021 15:58:42 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:58:42 Asia/Jakarta] PHP Notice:  Undefined index: partnerID in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 27
+[02-Jun-2021 15:58:42 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:58:43 Asia/Jakarta] PHP Notice:  Undefined index: partnerID in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 27
+[02-Jun-2021 15:58:43 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:59:19 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 15:59:19 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 16:09:01 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 16:09:01 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 17:09:32 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id_master in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:09:32 Asia/Jakarta] PHP Notice:  Undefined variable: fridayIn in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:09:32 Asia/Jakarta] PHP Notice:  Undefined variable: saturdayIn in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:09:32 Asia/Jakarta] PHP Notice:  Undefined variable: saturdayOut in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:09:32 Asia/Jakarta] PHP Notice:  Undefined variable: sundayOut in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:09:32 Asia/Jakarta] PHP Notice:  Undefined variable: users in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 38
+[02-Jun-2021 17:09:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 38
+[02-Jun-2021 17:09:35 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 17:10:41 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id_master in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:10:41 Asia/Jakarta] PHP Notice:  Undefined variable: fridayIn in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:10:41 Asia/Jakarta] PHP Notice:  Undefined variable: saturdayIn in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:10:41 Asia/Jakarta] PHP Notice:  Undefined variable: saturdayOut in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:10:41 Asia/Jakarta] PHP Notice:  Undefined variable: sundayOut in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:10:41 Asia/Jakarta] PHP Notice:  Undefined variable: users in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 38
+[02-Jun-2021 17:10:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 38
+[02-Jun-2021 17:10:43 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 17:10:54 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id_master in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:10:54 Asia/Jakarta] PHP Notice:  Undefined variable: fridayIn in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:10:54 Asia/Jakarta] PHP Notice:  Undefined variable: saturdayIn in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:10:54 Asia/Jakarta] PHP Notice:  Undefined variable: saturdayOut in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:10:54 Asia/Jakarta] PHP Notice:  Undefined variable: sundayOut in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 35
+[02-Jun-2021 17:10:54 Asia/Jakarta] PHP Notice:  Undefined variable: users in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 38
+[02-Jun-2021 17:10:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 38
+[02-Jun-2021 17:10:56 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 17:12:12 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 17:12:12 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 17:14:21 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 17:14:25 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 17:14:31 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 17:14:31 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 17:17:36 Asia/Jakarta] PHP Notice:  Undefined variable: fridayIn in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 37
+[02-Jun-2021 17:17:36 Asia/Jakarta] PHP Notice:  Undefined variable: saturdayIn in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 37
+[02-Jun-2021 17:17:36 Asia/Jakarta] PHP Notice:  Undefined variable: saturdayOut in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 37
+[02-Jun-2021 17:17:36 Asia/Jakarta] PHP Notice:  Undefined variable: sundayOut in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 37
+[02-Jun-2021 17:17:36 Asia/Jakarta] PHP Notice:  Undefined variable: users in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 40
+[02-Jun-2021 17:17:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 40
+[02-Jun-2021 17:18:57 Asia/Jakarta] PHP Notice:  Undefined variable: users in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 40
+[02-Jun-2021 17:18:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/urhubcom/public_html/v3/attendance-patterns/Insert.php on line 40
+[02-Jun-2021 17:28:10 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 17:28:10 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 17:29:38 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
+[02-Jun-2021 17:29:38 Asia/Jakarta] PHP Notice:  Undefined variable: all_users in /home/urhubcom/public_html/v3/attendance-patterns/GetByPartnerID.php on line 49
